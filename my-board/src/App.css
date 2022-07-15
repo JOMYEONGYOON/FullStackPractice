@@ -1,0 +1,10 @@
+body {
+  margin: 90px;
+  height: 100%;
+}
+.App {
+  text-align: center;
+}
+.btn {
+  margin: 10px;
+}
